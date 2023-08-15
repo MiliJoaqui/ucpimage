@@ -12,11 +12,10 @@
   "categories": [],
   "screenshots": [],
   "icons": [
-{
-    "src": "starr.png",
-    "sizes": "225x225",
-    "type": "image/png"
-  } 
+    {
+      "src": "ios/512.png",
+      "sizes": "512x512"
+    }
   ],
   "shortcuts": [],
   "id": "Minni"
