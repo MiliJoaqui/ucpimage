@@ -1,0 +1,17 @@
+{
+  "background_color": "#a749b8",
+  "description": "hola",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ucpimage-545o.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ucpimage-545o.vercel",
+  "start_url": "/",
+  "theme_color": "#17140f",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "id": "Minni"
+}
