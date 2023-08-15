@@ -20,8 +20,21 @@
     <script>
         if (typeof navigator.serviceWorker !== 'undefined') {
           navigator.serviceWorker.register('sw.js')
+
         }
       </script>
-      
+      <video id="camera" autoplay></video>
+
+  <script>
+    navigator.mediaDevices.getUserMedia({ video: true })
+      .then(function (stream) {
+        const videoElement = document.getElementById('camera');
+        videoElement.srcObject = stream;
+      })
+      .catch(function (error) {
+        console.error('Error al acceder a la cámara:', error);
+      });
+  </script>
+
 </body>
 </html>
