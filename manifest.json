@@ -13,7 +13,7 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "ios/512.png",
+      "src": "android/android-launchericon-512-512.png",
       "sizes": "512x512"
     }
   ],
