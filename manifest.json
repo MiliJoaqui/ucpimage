@@ -11,7 +11,13 @@
   "theme_color": "#17140f",
   "categories": [],
   "screenshots": [],
-  "icons": [],
+  "icons": [
+{
+    "src": "starr.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  } 
+  ],
   "shortcuts": [],
   "id": "Minni"
 }
